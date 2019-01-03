@@ -59,7 +59,7 @@ Run any shell command at the prompt::
 
 Use ``exit`` or ``Ctrl-D`` to leave the shell.
 
-Use ``clear`` to clear the screen.
+Use ``clear`` or ``Ctrl-L`` to clear the screen.
 
 Config File for DemoShell are in following location:
 
@@ -76,7 +76,7 @@ C:\Documents and Settings\<User>\Application Data\Doug Hellman\DemoShell\demoshe
 
 To add Aliases:
 Open config file in a text editor
-Edit "Aliases" section as per example below. 
+Edit "Aliases" section as per example below.
 alias = alias command. It may look something like below.
 
 [Aliases]
